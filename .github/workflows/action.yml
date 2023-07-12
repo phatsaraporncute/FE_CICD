@@ -37,7 +37,7 @@ jobs:
           context: .
           file: ./Dockerfile.prod
           push: true
-          tags: pavitpim40/react-ci:latest
+          tags: phatsaraporn/react-ci:latest
 
       # - name: Deploy to Cloud
       #   uses: appleboy/ssh-action@master
